@@ -1,0 +1,5 @@
+            - name: AWS SAM Deploy Action
+  # You may pin to the exact commit or the version.
+  # uses: zcodeid/sam-deploy-action@04ae78e5e680e438638604347d8ecc58e19cade1
+  uses: zcodeid/sam-deploy-action@v1.4.0-beta.1
+          
